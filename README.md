@@ -12,7 +12,7 @@
   <a href="https://pypi.org/project/all-in-agent/"><img src="https://img.shields.io/pypi/v/all-in-agent" alt="PyPI version"></a>
   <a href="https://pypi.org/project/all-in-agent/"><img src="https://img.shields.io/pypi/pyversions/all-in-agent" alt="Python versions"></a>
   <a href="https://pypi.org/project/all-in-agent/"><img src="https://img.shields.io/pypi/l/all-in-agent" alt="License"></a>
-  <a href="https://github.com/FutureUnreal/minagent"><img src="https://img.shields.io/github/stars/FutureUnreal/minagent?style=flat" alt="GitHub Stars"></a>
+  <a href="https://github.com/FutureUnreal/all-in-agent"><img src="https://img.shields.io/github/stars/FutureUnreal/all-in-agent?style=flat" alt="GitHub Stars"></a>
 </p>
 
 ```bash
